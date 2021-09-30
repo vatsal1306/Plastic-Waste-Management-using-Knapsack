@@ -1,0 +1,501 @@
+item,profit,weight,product,product_type
+1,482,485,Laptop Bag,cloth
+2,257,326,Briefcase,plastic
+3,286,248,Trashy shopper,plastic
+4,517,421,Wallet,cloth
+5,404,322,Sticks,wood
+6,713,795,Water bottle holder,glass
+7,45,43,Lunch Box,steel
+8,924,845,Pencil Case,plastic
+9,873,955,Sponge Bag,cloth
+10,160,252,Hats,cloth
+11,1,9,Oil paper,plastic
+12,838,901,Containers,steel
+13,40,122,Cups,glass
+14,58,94,Broken glassware,glass
+15,676,738,Meal Containers,steel
+16,627,574,Fish Bag,cloth
+17,766,715,Plasters,plastic
+18,862,882,Syringes,glass
+19,405,367,Expired Drugs,plastic
+20,923,984,Broken Tiles,glass
+21,379,299,Concrete Wastes,wood
+22,461,433,Steel Wastes,steel
+23,612,682,Batteries,plastic
+24,133,72,Magazines,cloth
+25,813,874,Waste polymer,plastic
+26,97,138,Used Oil glasses,glass
+27,908,856,Bricks,wood
+28,165,145,Paints,plastic
+29,996,995,Cements,plastic
+30,623,529,Herbicides,wood
+31,220,199,Lubricants,glass
+32,298,277,Weed killers,glass
+33,157,97,Polish Removers,plastic
+34,723,719,Marine waste,plastic
+35,144,242,Fungicides,plastic
+36,48,107,Kerosene,glass
+37,129,122,Fireworks,plastic
+38,148,70,Gunpowder,wood
+39,35,98,Thinners,wood
+40,644,600,Chemistry kits,glass
+41,632,645,Wood Preservatives,wood
+42,272,267,Solvents,glass
+43,1040,972,Generators,plastic
+44,977,895,Grease,glass
+45,312,213,Rubber,wood
+46,778,748,Conveyor Belt,plastic
+47,567,487,Swarf,steel
+48,965,923,Pipes,plastic
+49,1,29,Water ro waste,plastic
+50,616,674,Fluid Containers,steel
+51,569,540,Medical bottles,glass
+52,628,554,Clothes,cloth
+53,493,467,Aluminum Cans,steel
+54,76,46,Alarm Clocks,glass
+55,733,710,Animal Skin,cloth
+56,575,553,Appliances,steel
+57,288,191,Drums,wood
+58,775,724,Boats,wood
+59,723,730,Brakes,steel
+60,912,988,Car Bodies,plastic
+61,64,90,camphors,plastic
+62,354,340,Yard Waste,plastic
+63,565,549,Cell Phones,glass
+64,210,196,blubs,glass
+65,922,865,Gas Cylinders,steel
+66,775,678,Computers,wood
+67,566,570,Fax Machines,wood
+68,934,936,Exercise Equipment,wood
+69,626,722,Furniture,wood
+70,742,651,Gasoline Tanks,steel
+71,194,123,Inks,plastic
+72,485,431,Hot Tubs,plastic
+73,483,508,Jars,steel
+74,617,585,Mattresses,wood
+75,876,853,Lawn movers,steel
+76,653,642,Motor Oil,plastic
+77,896,992,Motor Cycles,steel
+78,652,725,Sinks,steel
+79,220,286,Printers,wood
+80,727,812,Radioactive Waste,plastic
+81,900,859,Refrigerators,wood
+82,563,663,Road Flares,plastic
+83,56,88,Smoke Detectors,plastic
+84,157,179,Mineral Wastes,plastic
+85,280,187,Ores,plastic
+86,537,619,Stones,plastic
+87,284,261,Sand,steel
+88,920,846,Drilling Muds,plastic
+89,124,192,Cokes,plastic
+90,239,261,Sludges,plastic
+91,459,514,Cuttings,steel
+92,931,886,Pigments,wood
+93,504,530,Tars,plastic
+94,910,849,Textiles,cloth
+95,382,294,Filter Clays,plastic
+96,795,799,Radio,plastic
+97,485,391,Boombox,plastic
+98,351,330,Cable box,steel
+99,289,298,Satellite Receiver,plastic
+100,865,790,Cables,steel
+101,250,275,Chargers,plastic
+102,738,826,Camera,plastic
+103,75,72,Cell Boxes,steel
+104,788,866,CD Players,wood
+105,947,951,Calculators,plastic
+106,651,748,Desktop,glass
+107,595,685,Circuit Board,wood
+108,993,956,Laptop,plastic
+109,663,564,CPU,wood
+110,265,183,Data Switch,plastic
+111,338,400,Roms,plastic
+112,637,721,DVD Player,wood
+113,206,207,Floppy,wood
+114,328,323,Servers,wood
+115,618,611,Fax Printers,wood
+116,64,116,Joystick,plastic
+117,139,109,Gaming Consoles,plastic
+118,806,795,Controllers,plastic
+119,412,343,Keyboard,wood
+120,912,862,MP3 Player,plastic
+121,715,685,Modem,wood
+122,1,10,Mouse,wood
+123,929,881,Music Player,wood
+124,1025,984,Printer Laser,wood
+125,410,403,Projector,wood
+126,273,360,Router,wood
+127,507,449,Dish,steel
+128,450,541,Scanner,wood
+129,174,272,Speakers,wood
+130,882,877,Sofa,plastic
+131,427,359,Stereo,wood
+132,787,707,Telephone,wood
+133,355,308,UPS,wood
+134,734,770,Video Gaming System,wood
+135,1,30,Vacuum,plastic
+136,248,208,Chairs,plastic
+137,397,311,Cots,wood
+138,159,100,Vegetables,wood
+139,874,939,Gas Cylinders,steel
+140,449,422,Tires,plastic
+141,857,785,Fire Extinguishers,plastic
+142,286,370,Bleach,plastic
+143,976,989,Cleaners,glass
+144,908,969,Insecticides,plastic
+145,103,143,Motor Oil,plastic
+146,1071,972,Diesel,plastic
+147,1,28,Cardboards,wood
+148,117,61,Copiers,wood
+149,697,638,Computers,wood
+150,424,348,Steel vessels,steel
+151,439,347,Charcoal Lighters,plastic
+152,74,66,Aerosol Cans,plastic
+153,442,391,Stoves,steel
+154,568,638,Resins,plastic
+155,195,295,Poisons,plastic
+156,854,826,Preservatives,plastic
+157,281,196,Wax,plastic
+158,433,449,Dustbins,plastic
+159,845,855,Vehicles,steel
+160,224,143,Bicycle,steel
+161,487,487,Shoes,plastic
+162,181,140,Frooti Packet,plastic
+163,496,564,Sauce Bottles,plastic
+164,690,615,Timber Waste,wood
+165,124,135,Milk Packets,plastic
+166,575,564,Marbles,steel
+167,374,360,Tables,wood
+168,766,793,Cupboards,wood
+169,149,163,Pins,steel
+170,776,859,Lab Equipments,glass
+171,793,760,Cold Storages,steel
+172,674,711,Rods,steel
+173,696,662,Gate,steel
+174,90,159,Stickers,plastic
+175,732,660,Handle,plastic
+176,214,268,Mirrors,glass
+177,935,948,Vehicle Parts,steel
+178,228,315,Books,wood
+179,619,676,Coolers,wood
+180,349,341,Gloves,glass
+181,734,689,Springs,steel
+182,964,894,Rocks,plastic
+183,644,706,Suitcases,plastic
+184,484,490,Cookers,steel
+185,491,478,Iron Boxes,steel
+186,628,671,Bamboo Sticks,plastic
+187,1009,932,Laundry,steel
+188,944,899,XRay,glass
+189,315,237,Refreshers,plastic
+190,92,187,Filters,steel
+191,554,472,Rock Salt,plastic
+192,757,772,Cabins,glass
+193,88,98,Clothes,cloth
+194,952,906,Water Containers,steel
+195,818,911,CT Scan,glass
+196,628,635,Furniture,plastic
+197,316,225,Stand,steel
+198,818,823,Mills,wood
+199,255,164,Formaldehyde,plastic
+200,432,343,Fillings,plastic
+201,763,732,E-waste,plastic
+202,490,502,Etchants,plastic
+203,721,740,Eletronic devices,steel
+204,587,576,Dyes,plastic
+205,530,612,Drugs,plastic
+206,992,902,Darkroom chemicals,plastic
+207,491,454,Dehumidifiers,plastic
+208,343,411,Disinfectants,plastic
+209,880,973,Air conditioners,plastic
+210,645,703,Brown wastes,plastic
+211,761,850,Wallet,cloth
+212,152,77,Obaapa,steel
+213,241,220,Sankofa,steel
+214,727,802,hats,plastic
+215,352,403,Sponge bag,cloth
+216,246,181,Purser,plastic
+217,1,10,Innert waste,plastic
+218,479,525,Gravel,plastic
+219,958,919,Lumber,wood
+220,749,668,Masonry,wood
+221,551,527,Cardboard,wood
+222,538,462,Aluminium cans,steel
+223,319,291,Milk cartons,steel
+224,580,605,Containers,wood
+225,501,457,Newspaper,wood
+226,487,405,Corrugated Cardboard,wood
+227,349,417,Pipes,plastic
+228,252,279,Plastic cans,plastic
+229,731,685,Water bottles,plastic
+230,637,596,Oil paint,plastic
+231,339,307,Poisions,plastic
+232,257,224,Fuels,plastic
+233,271,322,Mosquito coils,plastic
+234,740,840,Cockroach sprays,plastic
+235,1002,975,Drain cleaners,plastic
+236,404,401,Tiles,plastic
+237,190,91,Shower cleaners,glass
+238,254,327,Bleach,plastic
+239,277,330,Fungicides,plastic
+240,100,182,PVC toys,plastic
+241,648,603,Paint thinners,steel
+242,810,793,Latex,steel
+243,535,615,Water based paint,plastic
+244,702,733,Canned food,plastic
+245,855,864,Medical waste,plastic
+246,76,16,Toner cartridges,plastic
+247,773,863,Sharps,plastic
+248,917,987,DVD palyers,wood
+249,279,306,Grains,plastic
+250,123,34,Windows,wood
+251,922,840,Timber pallets,wood
+252,613,700,Timber boxes,wood
+253,658,706,Floorboards,wood
+254,705,787,Plywood,wood
+255,101,105,Chipboard,wood
+256,807,834,Mobile phones,glass
+257,883,798,Monitors,wood
+258,358,310,Radios,wood
+259,634,609,Electrical tools,steel
+260,786,690,Mixed papers,wood
+261,618,561,CPU's,wood
+262,644,579,Asphalt,plastic
+263,141,60,Gypsum,plastic
+264,466,388,Launcets,wood
+265,340,309,Scalpels,plastic
+266,495,407,Needles,steel
+267,283,200,Pavements,plastic
+268,352,313,Sinks,wood
+269,886,970,Ovens,steel
+270,95,33,Couches,cloth
+271,291,273,Recliners,plastic
+272,217,277,Tables,wood
+273,1007,997,Mills,wood
+274,1,40,Staples,wood
+275,219,227,Grass,plastic
+276,764,860,Green waste,plastic
+277,1025,940,Dirt,plastic
+278,600,608,Aerosol cans,plastic
+279,895,990,Cereal boxes,steel
+280,690,590,Paper rolls,wood
+281,738,806,Pots,plastic
+282,1,52,Pans,plastic
+283,772,801,Wrapping paper,wood
+284,727,764,Toasters,wood
+285,774,710,Metal hangers,steel
+286,340,386,Junk mail,plastic
+287,503,593,Tissue boxes,wood
+288,1,50,Tin cans,steel
+289,432,494,Incontinence pads,plastic
+290,228,156,Clothes,cloth
+291,993,936,Toys,plastic
+292,1058,965,Animal faces,plastic
+293,130,86,Syringes,wood
+294,821,723,Nappies,cloth
+295,189,184,Light fixtures,plastic
+296,943,868,Mattresses,wood
+297,343,340,Hot tubs,plastic
+298,404,412,adhesive,plastic
+299,560,487,Light bulbs,glass
+300,196,209,Fax machines,wood
+301,418,346,Car care products,wood
+302,782,860,Campers,steel
+303,314,307,Branches,wood
+304,59,95,Boats,wood
+305,778,821,Brake fluids,steel
+306,979,941,Alarm clocks,glass
+307,828,821,Spills,wood
+308,584,587,Erasers,plastic
+309,122,201,Exercise equipment,plastic
+310,741,665,Glass bottles,plastic
+311,566,527,PCB's,plastic
+312,760,812,Mobile homes,glass
+313,385,424,Photocopiers,wood
+314,395,459,Road flares,plastic
+315,250,343,Refrigerators,wood
+316,789,836,Smoke detectors,plastic
+317,492,506,Diesel fuel,plastic
+318,261,179,Storage tanks,plastic
+319,914,916,Appliances,steel
+320,380,430,Campers,wood
+321,537,596,Pool chemicals,plastic
+322,731,808,Leaves,plastic
+323,361,269,Peels,plastic
+324,473,512,Vegetables,plastic
+325,737,811,Households,plastic
+326,708,685,Shops,plastic
+327,635,567,Cattle,wood
+328,804,776,Weed,glass
+329,827,855,Husk,wood
+330,695,718,Automobile scrap,plastic
+331,756,853,Wire,steel
+332,57,97,Vegetative waste,wood
+333,178,146,Telephone books,wood
+334,688,746,Styrofoam,steel
+335,1,15,Stumps,plastic
+336,871,965,Street Sweepings,steel
+337,415,512,Scrap metal,plastic
+338,510,480,Drink boxes,steel
+339,1057,958,Polystyrene,plastic
+340,764,665,Pallets,plastic
+341,193,191,Brass,glass
+342,905,964,Brown paperbags,wood
+343,583,515,Tree parts,wood
+344,696,606,Brush,plastic
+345,887,822,Cell phones,glass
+346,444,529,Chipboard,wood
+347,741,693,Clean Fill,plastic
+348,12,19,Food waste,plastic
+349,313,335,Freon,steel
+350,81,101,Grass clippings,plastic
+351,828,922,Heavy iron,steel
+352,354,294,Bug spray,plastic
+353,981,910,Ceramic glaze,steel
+354,499,410,CRT'S,glass
+355,283,250,Caustics,plastic
+356,545,546,Thermometers,glass
+357,635,729,Thermostats,glass
+358,540,609,Televisions,glass
+359,689,720,Sodium lamps,glass
+360,946,976,Spray cans,plastic
+361,730,759,Strippers,glass
+362,703,798,Spot removers,plastic
+363,14,74,Sphygmomanometers,glass
+364,644,648,Refrigerants,wood
+365,241,299,Rodenticides,wood
+366,793,785,Roofing tar,wood
+367,912,846,Radioactive material,wood
+368,461,390,Paint rags,plastic
+369,801,897,Pharmaceuticals,plastic
+370,424,416,Polishes,plastic
+371,744,837,Pottery glaze,glass
+372,272,247,Pump oil,steel
+373,338,293,Propane cylinders,steel
+374,193,144,Printmaking inks,plastic
+375,987,938,Paint solvents,plastic
+376,432,467,Nicad batteries,plastic
+377,505,480,Mercury vapour lamps,glass
+378,944,955,Lab chemicals,plastic
+379,653,665,Lead weights,plastic
+380,38,26,Lead shielding,plastic
+381,468,564,Lithium ion batteries,plastic
+382,461,449,Insecticides,plastic
+383,1,26,Herbicides,plastic
+384,576,521,HID lamps,glass
+385,329,301,Grease,steel
+386,274,321,Gasoline,steel
+387,701,613,Fungicides,plastic
+388,432,388,Freezers,wood
+389,851,879,Pozzolan,wood
+390,915,990,Mortar,wood
+391,137,188,Brick,wood
+392,927,963,Digestate,steel
+393,903,820,Sawdust,plastic
+394,373,300,Polyvinyl chloride,steel
+395,770,822,Aluminium,steel
+396,160,255,Agriculture waste,plastic
+397,285,277,Dog waste,plastic
+398,231,153,Food waste,plastic
+399,366,400,Grey water,plastic
+400,317,227,Marine debris,steel
+401,423,518,Medical Waste,plastic
+402,420,447,Mineral waste,plastic
+403,216,315,Ship disposal,wood
+404,772,813,Sewage,wood
+405,271,324,Clinical waste,plastic
+406,566,502,Composite waste,plastic
+407,243,299,Bulky waste,plastic
+408,725,780,Organic waste,wood
+409,390,376,Litter,wood
+410,491,516,Fly ash,plastic
+411,225,212,Sludge,plastic
+412,392,329,Slag,wood
+413,781,810,nappies,cloth
+414,434,486,Pencil case,wood
+415,535,485,Briefcase,plastic
+416,368,416,Wallet,cloth
+417,938,952,Ammunition,plastic
+418,946,894,Antifreeze,plastic
+419,353,358,Asbestos,plastic
+420,1,21,Dums,wood
+421,707,647,Barrels,steel
+422,143,44,Yard waste,plastic
+423,630,683,Shrubs,wood
+424,364,361,Campers,wood
+425,822,814,Canned food,plastic
+426,147,231,Cleaners,plastic
+427,54,8,Computers,glass
+428,91,165,Peripherals,wood
+429,431,496,Cooking oil,steel
+430,606,699,Dryers,plastic
+431,917,852,Lawn Mowers,plastic
+432,553,459,Grease trap,plastic
+433,473,535,Gasoline,glass
+434,222,314,Glue,plastic
+435,954,944,Jars,steel
+436,369,306,Hot tubs,plastic
+437,413,459,Ink cartridges,plastic
+438,717,637,Lead acid batteries,plastic
+439,491,447,Lawn mowers,glass
+440,447,408,pallets,steel
+441,44,107,Lumber,wood
+442,994,962,Biological waste,plastic
+443,518,565,Microwave ovens,glass
+444,448,407,Mobile phones,glass
+445,931,857,magazines,wood
+446,369,317,Office paper,wood
+447,181,98,Oxygen tanks,plastic
+448,815,818,Pool chemicals,plastic
+449,655,600,toner cartridges,plastic
+450,267,288,Propane tanks,plastic
+451,960,902,Radioactive waste,steel
+452,611,567,Road flares,plastic
+453,271,190,Shredded paper,wood
+454,771,749,Smoke detectors,plastic
+455,993,908,Solvents,plastic
+456,359,276,Tin cans,plastic
+457,810,748,Styrofoam,plastic
+458,563,592,Washing machines,wood
+459,360,393, DVD players,wood
+460,264,363,VCRs,wood
+461,199,163,Water heaters,plastic
+462,1074,983,Tree limbs,wood
+463,131,179,Car bodies,plastic
+464,41,16,Brake fluid,plastic
+465,423,478,Boats,wood
+466,197,259,Antifreeze,glass
+467,779,868,Aerosols,plastic
+468,344,295,Carpet,cloth
+469,536,596,Dryers,plastic
+470,140,71,Fireworks,glass
+471,669,622,Furniture,cloth
+472,938,864,Motor oil,steel
+473,715,644,Paint,plastic
+474,67,5,Pesticides,plastic
+475,321,365,Strain,glass
+476,434,429,Tires,plastic
+477,19,64,Iron ore,steel
+478,928,854,Digestate,steel
+479,759,770,Cork,plastic
+480,178,88,Plaster,plastic
+481,160,157,Straw,plastic
+482,277,368,Slag,glass
+483,467,421,Fiber,steel
+484,653,719,Pulp,wood
+485,330,271,Coal,plastic
+486,966,975,Paperboard,wood
+487,817,816,Cement,plastic
+488,1045,962,Building Material,steel
+489,508,535,Brick,plastic
+490,492,438,Lumber,wood
+491,743,696,Mercury,glass
+492,884,881,Plastic,plastic
+493,259,318,Metal,steel
+494,56,45,Glass,glass
+495,1,52,Soil,plastic
+496,421,496,Textile,cloth
+497,270,313,Steel,steel
+498,99,138,Wood,wood
+499,429,334,Lead,steel
+500,1004,988,Fertilizer,plastic
