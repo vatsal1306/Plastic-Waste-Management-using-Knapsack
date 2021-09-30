@@ -1,0 +1,2 @@
+# Plastic-Waste-Management-using-Knapsack
+The concept of the knapsack problem in plastic waste management has to do with maximizing total production by choosing the best or valuable items to produce in order to obtain the maximum revenue. Using the basic knapsack model for the optimal operations of plastic bag waste recycling facilities. It helps in collecting more waste from people. Effectively and efficiently selecting items to be produced from a lot of items given a fix or limited amount of money to achieve optimal use of the money.
